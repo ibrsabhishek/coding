@@ -1,0 +1,23 @@
+.header1{
+    background-color: rgb(236, 138, 82);
+    color: rgb(30, 7, 134);
+    text-align: right;
+    justify-content:space-between;
+    margin-top: 12px;
+    padding: 20px;
+    
+}
+.abhi{
+--#{$prefix}border-width: #{$border-width};
+--#{$prefix}border-style: #{$border-style};
+--#{$prefix}border-color: #{$border-color};
+--#{$prefix}border-color-translucent: #{$border-color-translucent};
+
+--#{$prefix}border-radius: #{$border-radius};
+--#{$prefix}border-radius-sm: #{$border-radius-sm};
+--#{$prefix}border-radius-lg: #{$border-radius-lg};
+--#{$prefix}border-radius-xl: #{$border-radius-xl};
+--#{$prefix}border-radius-xxl: #{$border-radius-xxl};
+--#{$prefix}border-radius-2xl: var(--#{$prefix}border-radius-xxl); // Deprecated in v5.3.0 for consistency
+--#{$prefix}border-radius-pill: #{$border-radius-pill};
+}

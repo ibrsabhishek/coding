@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    text-align:right;
+}
+Button{
+    color: rgb(141, 234, 86);
+    background-color: white;
+}
+body{
+    background-color: rgb(16, 10, 3);
+}
+p{
+    color: chocolate;
+    text-align: left;
+}
+#id{
+    color: brown;
+}
+.abhi{
+  color: orange;
+
+}
+.man{
+    color: white;
+}
+.ank{
+    color: green;
+}

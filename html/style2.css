@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background-color: yellow;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    background-color: rgb(229, 144, 148);
+    font-size: 25px;
+    color: rgb(3, 3, 139);
+
+}
+a:visited{
+    color: rgb(5, 18, 23);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(65, 10, 159);
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+    font-size: 500px;
+}
